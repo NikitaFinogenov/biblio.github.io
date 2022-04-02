@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+html{
+    
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url(Fotoram.io.jpg);
+    backdrop-filter: blur(5px);
+    
+    
+}
+
+.butt_R{
+    position: absolute;
+    width: 350px;
+    height: 88px;
+    
+    background: #5263FF;
+    border-radius: 10px;
+    
+    margin-top: 692px;
+    margin-left: 102px;
+}
+.butt_text_R{
+    position: absolute;
+    width: 288px;
+    height: 56px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 88px;
+    
+    margin-left: 31px;
+    
+    color: #FFFEFE;   
+}
+.butt_V{
+    position: absolute;
+    width: 240px;
+    height: 88px;
+    
+    background: #FAFAFF;
+    border-radius: 10px;  
+    
+    margin-left: 480px;
+    margin-top: 692px;
+}
+.butt_text_V{
+    position: absolute;
+    width: 108px;
+    height: 56px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 88px;
+
+    margin-left: 66px;
+    
+    color: #000000;   
+}
+
+
+
+.over_text{
+    position: absolute;
+    width: 1057px;
+    height: 364px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    margin-top: 380px;
+    margin-left: 102px;
+
+    color: #EAEAEA;
+}
+
+.header{
+    position: absolute;
+    width: 880px;
+    height: 118px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+
+    margin-left: 102px;
+    margin-top: 144px;
+
+    color: #EAEAEA;
+}
