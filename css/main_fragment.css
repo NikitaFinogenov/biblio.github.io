@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+html{
+    height: 100%;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url(Fotoram.io.jpg);
+
+    height: 100%;
+    
+}
+.rec{
+    width: 240px;
+    height: 100%;
+    background-color: #EAEAEA;
+}
+.avatar{
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px   ;
+}
+
+.name{
+    width: 100px;
+    text-align: center;
+    margin-left: 100px;
+}
+.line{
+    width: 100px;
+    margin-left: 100px;
+}
+.lvl{
+    width: 100px;
+    margin-left: 100px;
+    text-align: center;
+}
+.a{
+    margin-top: -65px;
+}
+.button{
+    width: 180px;
+    text-align: center;
+    color: rgb(17, 17, 17);
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.b_text{
+    border-radius: 5px;
+    margin-left: 30px;
+    width: 180px;
+    background-color: rgb(170, 170, 170);
+    color: rgb(17, 17, 17);
+    padding: 5px;
+}
+.book_1{     
+    
+    width: 150px;
+    height: 240px;
+
+    margin-top: -1460px ;
+    margin-left: 320px;
+    
+}
+.book{
+    width: 150px;
+    height: 240px;
+
+    margin-top: -1460px ;
+    margin-left: 25px;
+}
+.book_1_2{
+    width: 150px;
+    height: 240px;
+
+    margin-top: -910px ;
+    margin-left: 320px;
+        
+
+}
+.book_2{
+    width: 150px;
+    height: 240px;
+
+    margin-top: -910px ;
+    margin-left: 25px;
+}
+.Y_B{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    text-decoration: wavy;
+}
